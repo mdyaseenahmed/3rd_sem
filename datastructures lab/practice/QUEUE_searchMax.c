@@ -57,7 +57,7 @@ int main()
     char ans;
     while(1)
     {
-        printf("\nThe Choices Are : \n1. Insert.\n2. Delete.\n3. Display.\n4. Search Multiples.\n5. Exit.\nEnter Your Choice : ");
+        printf("\nThe Choices Are : \n1. Insert.\n2. Delete.\n3. Display.\n4. Maximum Element in QUEUE.\n5. Exit.\nEnter Your Choice : ");
         scanf("%d",&choice);
         
         switch(choice)
