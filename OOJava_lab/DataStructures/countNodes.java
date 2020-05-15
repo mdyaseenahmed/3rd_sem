@@ -58,8 +58,6 @@ public class countNodes
 	{
 		linkedList l1 = new linkedList();
 		
-		System.out.println("QUEUE Impelmentation Using LinkedList : ");
-		
 		while(true)
 		{
 		    System.out.println("The Chocies Are : ");
