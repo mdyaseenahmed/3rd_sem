@@ -52,7 +52,7 @@ class linkedList
     }
 }
 
-public class countNodes
+public class countNodes_LL
 {
 	public static void main(String[] args) 
 	{
