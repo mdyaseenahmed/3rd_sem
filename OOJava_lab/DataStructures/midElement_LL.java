@@ -54,7 +54,7 @@ class linkedList
     }
 }
 
-public class Main
+public class midElement_LL
 {
 	public static void main(String[] args) 
 	{
